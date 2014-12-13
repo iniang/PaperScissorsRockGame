@@ -33,7 +33,7 @@ Logger logger = Logger.getLogger( MyLogger.class.getName() );
         e.printStackTrace();  
     }  
 
-    logger.info("Hope you enjoy the game!"); 
+    logger.info("Hope you enjoy the Game!"); 
     	  		    	  
     	
 	}
